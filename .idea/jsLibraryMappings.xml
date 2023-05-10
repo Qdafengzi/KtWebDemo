@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="KtWebDemo/demo/build/js/node_modules" />
+    <excludedPredefinedLibrary name="KtWebDemo/demo/build/js/packages/demo-test/node_modules" />
+    <excludedPredefinedLibrary name="KtWebDemo/demo/build/js/packages/demo/node_modules" />
+  </component>
+</project>
