@@ -1,4 +1,8 @@
 package data
 
-class ContactList {
-}
+data class ContactList(
+    val time: String,
+    val img: String,
+    val name: String,
+    val fistContent: String,
+)
